@@ -1,1 +1,4 @@
-este es archivo 2
+este es archivo de la definicion de especificaciones de datos.
+Clientes
+tipos de datos
+(id, nombre ,etc)
