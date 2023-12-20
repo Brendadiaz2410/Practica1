@@ -61,3 +61,39 @@ body {
     display: none;
   }
 }
+
+:root {
+    --line-border-fill: #3498db;
+    --line-border-empty: #383838;
+  
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+ 
+  .btn {
+    background-color: var(--line-border-fill);
+    align-self: last baseline;
+    padding: 16px 32px;
+    margin-top: 100%;
+    color: #fff;
+    border: 0;
+    border-radius: 6px;
+    cursor: pointer;
+    font-family: inherit;
+    padding: 8px 5px;
+    margin: 5px;
+    font-size: 14px;
+  }
+  
+  .btn:active {
+    transform: scale(0.98);
+  }
+  
+  
+  .btn:disabled {
+    background-color: var(--line-border-empty);
+    cursor: not-allowed;
+  }
