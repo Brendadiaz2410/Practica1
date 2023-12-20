@@ -10,4 +10,4 @@
     1.5 se crea el archivo style.css 
     donde se da formato al uso de elementos 
     1.6 cargamos la carpeta de extraccion de imagenes
-    
+2 ahora agregaremos otro modulo con funcionalidad de avance
