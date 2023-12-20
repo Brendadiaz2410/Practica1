@@ -1,3 +1,2 @@
-Este es mi primer archivo de texto 
-en el repositorio practica 1
-esta es la segunda edicion
+En este proyecto realizaremos practica de diversos puntos a crear
+paso 1 crear archivo index
